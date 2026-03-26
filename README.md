@@ -1,6 +1,3 @@
-# 📄 `README.md`
-
-````markdown
 # 🛡️ Cyber Crime Scan Detection System (AI-Powered)
 
 🚀 An intelligent, multi-modal AI system to detect scams, frauds, and cyber threats using text, images, audio, QR codes, and UPI analysis.
